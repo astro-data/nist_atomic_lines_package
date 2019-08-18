@@ -3,11 +3,11 @@
 NIST atomic line package serves for obtaining atomic lines from the NIST catalog and analyzing spectra using atomic lines from the NIST catalog.
 
 The package contains following folders:
-- # /nist_library/
-- # /create_line_list/
-- # /search_lines/
-- # /wis_man_list/
-- # /analyze_spectra/
+- /nist_library/
+- /create_line_list/
+- /search_lines/
+- /wis_man_list/
+- /analyze_spectra/
 
 
 # /nist_library/
