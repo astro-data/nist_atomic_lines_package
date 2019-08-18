@@ -73,11 +73,17 @@ To obtain the list of atomic lines for the required elements, follow these steps
    For example file list_of_lines_example.txt should be like:
 
    H I
+   
    He I [0,0.2,0,2000,10000]
+   
    He II
+   
    O I
+   
    O II [50,0.3,0,3000,15000]
+   
    ...
+   
 
    NOTE : You cannot put element without specifying ionization level.
 
