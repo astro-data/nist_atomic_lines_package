@@ -1,7 +1,10 @@
 # nist_atomic_lines_package
-Obtaining atomic lines from the NIST catalog. Analyzing spectra using atomic lines from the NIST catalog.
+
+NIST atomic line package serves for obtaining atomic lines from the NIST catalog and analyzing spectra using atomic lines from the NIST catalog.
+
 
 # nist_library
+
 The script creating_nist_lib.py creates library of all lines (with Relative Intensity) that exist in NIST database.
 
 Library (folder) /NIST_ELEMENTS/ will contain all elements form NIST (as subfolders): 
