@@ -2,15 +2,19 @@
 
 NIST atomic line package serves for obtaining atomic lines from the NIST catalog and analyzing spectra using atomic lines from the NIST catalog.
 
-The package contains following tools:
-- nist_library
-- create_line_list
-- search_lines
-- wis_man_list
-- analyze_spectra
+The package contains following folders:
+- /nist_library/
+- /create_line_list/
+- /search_lines/
+- /wis_man_list/
+- /analyze_spectra/
 
 
 # nist_library
+
+This folder contains:
+- creating_nist_lib.py
+- 
 
 The script creating_nist_lib.py creates library of all lines (with Relative Intensity) that exist in NIST database.
 
