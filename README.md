@@ -10,7 +10,7 @@ The package contains following folders:
 - /analyze_spectra/
 
 
-# nist_library
+* # /nist_library/
 
 This folder contains:
 - creating_nist_lib.py
