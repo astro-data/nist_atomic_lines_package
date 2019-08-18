@@ -45,6 +45,7 @@ NOTE:
 
 - for CRONTAB: python creating_nist_lib.py > creating_nist_lib_LOG.txt (in order to create creating_nist_lib_LOG.txt (with appending properties...) )
 
+
 # /create_line_list/
 
 This folder contains python script create_line_list.py for obtaining atomic lines from the NIST catalog,
@@ -144,10 +145,17 @@ To obtain the list of atomic lines for the required elements, follow these steps
    e.g.
 
    python create_line_list.py ELEMENTS_FILE=elements.txt MAN_LINES_FILE=added_lines.txt output=list rel_int_flag=range
+   
    python create_line_list.py ELEMENTS_FILE=elements.txt library=True output=matlab
+   
    python create_line_list.py MAN_LINES_FILE=added_lines.txt rel_int_flag=range
+   
    python create_line_list.py ELEMENTS_FILE=elements.txt output=list rel_int_flag=all
+   
    ...
+   
+
+
 
 
 
