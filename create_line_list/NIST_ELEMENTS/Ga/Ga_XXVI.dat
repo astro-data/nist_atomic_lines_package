@@ -1,0 +1,5 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+31.25	Ga	XXVI	74.6	6.0	0.5	NIST	L12180
+31.25	Ga	XXVI	78.385	12.0	1.0	NIST	L12180
+31.25	Ga	XXVI	86.946	2.0	0.1667	NIST	L12180
+31.25	Ga	XXVI	91.063	6.0	0.5	NIST	L12180

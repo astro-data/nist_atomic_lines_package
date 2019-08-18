@@ -1,0 +1,10 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+33.04	As	V	600.7	25.0	0.1	NIST	L3372
+33.04	As	V	616.0	40.0	0.16	NIST	L3372
+33.04	As	V	715.5	120.0	0.48	NIST	L3372
+33.04	As	V	734.8	150.0	0.6	NIST	L3372
+33.04	As	V	737.2	60.0	0.24	NIST	L3372
+33.04	As	V	987.7	250.0	1.0	NIST	L3372
+33.04	As	V	1029.5	250.0	1.0	NIST	L3372
+33.04	As	V	1051.6	40.0	0.16	NIST	L3372
+33.04	As	V	1056.6	60.0	0.24	NIST	L3372

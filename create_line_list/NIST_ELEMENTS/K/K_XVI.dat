@@ -1,0 +1,9 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+19.15	K	XVI	21.737	3.0	0.6	NIST	L2563
+19.15	K	XVI	21.911	1.0	0.2	NIST	L2563
+19.15	K	XVI	22.813	3.0	0.6	NIST	L2563
+19.15	K	XVI	22.921	5.0	1.0	NIST	L2563
+19.15	K	XVI	23.27	2.0	0.4	NIST	L2563
+19.15	K	XVI	23.315	4.0	0.8	NIST	L2563
+19.15	K	XVI	23.399	5.0	1.0	NIST	L2563
+19.15	K	XVI	23.84	3.0	0.6	NIST	L2563

@@ -1,0 +1,4 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+55.18	Cs	XIX	102.208	60.0	1.0	NIST	L11206
+55.18	Cs	XIX	102.963	20.0	0.3333	NIST	L11206
+55.18	Cs	XIX	104.532	4.0	0.0667	NIST	L11206

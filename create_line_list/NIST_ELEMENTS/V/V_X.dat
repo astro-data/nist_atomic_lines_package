@@ -1,0 +1,8 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+23.09	V	X	304.974	1.0	0.1429	NIST	L3633
+23.09	V	X	308.903	2.0	0.2857	NIST	L3633
+23.09	V	X	313.99	5.0	0.7143	NIST	L3633
+23.09	V	X	323.811	3.0	0.4286	NIST	L3633
+23.09	V	X	365.518	1.0	0.1429	NIST	L3633
+23.09	V	X	369.612	1.0	0.1429	NIST	L3633
+23.09	V	X	404.106	7.0	1.0	NIST	L3633

@@ -1,0 +1,5 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+37.29	Rb	XXX	50.52	13.0	0.3714	NIST	L6492
+37.29	Rb	XXX	51.2	12.0	0.3429	NIST	L6492
+37.29	Rb	XXX	55.143	35.0	1.0	NIST	L6492
+37.29	Rb	XXX	56.31	13.0	0.3714	NIST	L6492

@@ -1,0 +1,6 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+58.04	Ce	V	365.66	100.0	0.3333	NIST	L1507
+58.04	Ce	V	399.36	300.0	1.0	NIST	L1507
+58.04	Ce	V	404.21	150.0	0.5	NIST	L1507
+58.04	Ce	V	482.96	200.0	0.6667	NIST	L1507
+58.04	Ce	V	552.13	100.0	0.3333	NIST	L1507

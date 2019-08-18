@@ -1,0 +1,5 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+24.07	Cr	VIII	132.321	10.0	1.0	NIST	L3398
+24.07	Cr	VIII	133.395	5.0	0.5	NIST	L3398
+24.07	Cr	VIII	134.076	3.0	0.3	NIST	L3398
+24.07	Cr	VIII	135.185	8.0	0.8	NIST	L3398

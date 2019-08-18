@@ -1,0 +1,3 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+74.31	W	XXXII	666.76	65.0	1.0	NIST	L12340c24
+74.31	W	XXXII	804.88	19.0	0.2923	NIST	L12340c24

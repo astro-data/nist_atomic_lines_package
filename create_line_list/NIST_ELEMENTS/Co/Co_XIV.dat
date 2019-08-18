@@ -1,0 +1,6 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+27.13	Co	XIV	224.13	3.0	0.3333	NIST	L5015
+27.13	Co	XIV	230.34	5.0	0.5556	NIST	L5015
+27.13	Co	XIV	236.11	9.0	1.0	NIST	L5015
+27.13	Co	XIV	239.33	7.0	0.7778	NIST	L5015
+27.13	Co	XIV	296.66	4.0	0.4444	NIST	L5015

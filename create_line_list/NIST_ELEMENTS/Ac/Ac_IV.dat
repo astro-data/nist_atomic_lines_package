@@ -1,0 +1,7 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+89.03	Ac	IV	2062.0	20.0	0.2	NIST	L7344
+89.03	Ac	IV	2502.12	30.0	0.3	NIST	L7344
+89.03	Ac	IV	2558.08	100.0	1.0	NIST	L7344
+89.03	Ac	IV	2790.83	5.0	0.05	NIST	L7344
+89.03	Ac	IV	2793.9	50.0	0.5	NIST	L7344
+89.03	Ac	IV	3224.7	20.0	0.2	NIST	L7344

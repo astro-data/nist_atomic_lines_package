@@ -1,0 +1,5 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+42.25	Mo	XXVI	75.698	20.0	0.1	NIST	L10225
+42.25	Mo	XXVI	76.624	200.0	1.0	NIST	L10225
+42.25	Mo	XXVI	77.369	5.0	0.025	NIST	L10225
+42.25	Mo	XXVI	78.056	20.0	0.1	NIST	L10225

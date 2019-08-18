@@ -1,0 +1,7 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+28.13	Ni	XIV	245.65	2.0	0.3333	NIST	L5015
+28.13	Ni	XIV	253.681	5.0	0.8333	NIST	L5015
+28.13	Ni	XIV	288.894	3.0	0.5	NIST	L5015
+28.13	Ni	XIV	292.399	4.0	0.6667	NIST	L5015
+28.13	Ni	XIV	302.264	4.0	0.6667	NIST	L10919
+28.13	Ni	XIV	316.113	6.0	1.0	NIST	L5015
