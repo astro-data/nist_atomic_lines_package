@@ -1,0 +1,4 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+27.23	Co	XXIV	9.974	1.0	0.3333	NIST	L4776
+27.23	Co	XXIV	10.053	3.0	1.0	NIST	L4776
+27.23	Co	XXIV	10.503	2.0	0.6667	NIST	L4776

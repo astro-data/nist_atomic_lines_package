@@ -1,0 +1,3 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+18.10	Ar	XI	38.33	380.0	0.9744	NIST	L1158
+18.10	Ar	XI	38.93	390.0	1.0	NIST	L1158

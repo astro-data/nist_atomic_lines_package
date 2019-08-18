@@ -1,0 +1,4 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+54.27	Xe	XXVIII	40.49	30.0	0.3	NIST	L6463
+54.27	Xe	XXVIII	48.64	100.0	1.0	NIST	L6463
+54.27	Xe	XXVIII	51.355	10.0	0.1	NIST	L6463

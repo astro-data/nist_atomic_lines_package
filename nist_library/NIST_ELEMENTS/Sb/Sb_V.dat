@@ -1,0 +1,9 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+51.04	Sb	V	699.22	3.0	0.25	NIST	L3982
+51.04	Sb	V	746.06	1.0	0.0833	NIST	L3982
+51.04	Sb	V	831.0	6.0	0.5	NIST	L3982
+51.04	Sb	V	898.02	1.0	0.0833	NIST	L3982
+51.04	Sb	V	1104.32	8.0	0.6667	NIST	L3982
+51.04	Sb	V	1226.0	12.0	1.0	NIST	L3982
+51.04	Sb	V	1505.7	12.0	1.0	NIST	L3982
+51.04	Sb	V	1524.47	12.0	1.0	NIST	L3982

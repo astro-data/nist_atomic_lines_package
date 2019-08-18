@@ -1,0 +1,9 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+33.03	As	IV	2253.1	150.0	0.6	NIST	L687
+33.03	As	IV	2263.2	200.0	0.8	NIST	L687
+33.03	As	IV	2301.0	200.0	0.8	NIST	L687
+33.03	As	IV	2417.5	250.0	1.0	NIST	L687
+33.03	As	IV	2446.1	150.0	0.6	NIST	L687
+33.03	As	IV	2454.0	250.0	1.0	NIST	L687
+33.03	As	IV	2461.4	200.0	0.8	NIST	L687
+33.03	As	IV	3108.8	150.0	0.6	NIST	L687

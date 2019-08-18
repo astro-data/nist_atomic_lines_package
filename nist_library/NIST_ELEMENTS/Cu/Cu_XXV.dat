@@ -1,0 +1,4 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+29.24	Cu	XXV	97.272	3.0	1.0	NIST	L6733
+29.24	Cu	XXV	107.659	3.0	1.0	NIST	L6733
+29.24	Cu	XXV	117.507	3.0	1.0	NIST	L6733

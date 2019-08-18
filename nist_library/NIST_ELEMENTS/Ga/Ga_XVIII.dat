@@ -1,0 +1,7 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+31.17	Ga	XVIII	147.624	20.0	0.0667	NIST	L12180
+31.17	Ga	XVIII	148.092	20.0	0.0667	NIST	L12180
+31.17	Ga	XVIII	150.855	300.0	1.0	NIST	L12180
+31.17	Ga	XVIII	156.51	3.0	0.01	NIST	L12180
+31.17	Ga	XVIII	156.807	5.0	0.0167	NIST	L12180
+31.17	Ga	XVIII	166.067	10.0	0.0333	NIST	L12180

@@ -1,0 +1,3 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+74.68	W	LXIX	6.88	85.0	1.0	NIST	L16568
+74.68	W	LXIX	8.672	17.0	0.2	NIST	L16568

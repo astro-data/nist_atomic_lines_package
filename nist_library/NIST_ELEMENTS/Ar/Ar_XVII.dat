@@ -1,0 +1,5 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+18.16	Ar	XVII	3.198	13.0	0.13	NIST	L1845
+18.16	Ar	XVII	3.362	19.0	0.19	NIST	L1845
+18.16	Ar	XVII	3.949065	100.0	1.0	NIST	L12339
+18.16	Ar	XVII	3.963	55.0	0.55	NIST	L1845
