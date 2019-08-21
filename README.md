@@ -1,8 +1,8 @@
 # NIST ATOMIC LINES PACKAGE
 
-NIST atomic line package serves for obtaining atomic lines from the NIST catalog and analyzing spectra using atomic lines from the NIST catalog.
+The NIST atomic lines package serves for obtaining atomic lines (which contain Relative Intensity information) from the NIST catalog and analyzing spectra using those lines.
 
-The package contains following folders:
+The package contains the following folders:
 - /nist_library/
 - /create_line_list/
 - /search_lines/
@@ -12,7 +12,7 @@ The package contains following folders:
 
 # /nist_library/
 
-This folder contains python script creating_nist_lib.py that creates library of all lines (with Relative Intensity) that exist in NIST database.
+This folder contains python script creating_nist_lib.py that creates a library of all lines (with Relative Intensity) that exist in NIST database.
 
 Library (folder) /NIST_ELEMENTS/ will contain all elements form NIST (as subfolders): 
 
@@ -23,7 +23,7 @@ Library (folder) /NIST_ELEMENTS/ will contain all elements form NIST (as subfold
 * /NIST_ELEMENTS/Fe/ 
 ...
 
-and for each element all existing ionization levels (as files):
+and for each element all existing ionization levels (in separate files):
 
 * /NIST_ELEMENTS/H/
   - H_I.dat
@@ -39,11 +39,9 @@ and for each element all existing ionization levels (as files):
 
 NOTE:
 
-- if running script from weizmann astro-server use @weizmann.ac.il for email account
+- If running script from weizmann astro-server use @weizmann.ac.il for email account and TIME_SLEEP=0.001 (or just 0)
 
-- if running script from weizmann astro-server use TIME_SLEEP=0.001 (or just 0)
-
-- for CRONTAB: python creating_nist_lib.py > creating_nist_lib_LOG.txt (in order to create creating_nist_lib_LOG.txt (with appending properties...) )
+- For CRONTAB: python creating_nist_lib.py > creating_nist_lib_LOG.txt (in order to create creating_nist_lib_LOG.txt (with appending properties...) )
 
 
 # /create_line_list/
