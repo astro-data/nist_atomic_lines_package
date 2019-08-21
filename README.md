@@ -66,9 +66,9 @@ To obtain the list of atomic lines for the required elements, follow these steps
    * /script_result/          - folder with results from the script execution 
    
 
-2. File that you put in /list_of_elements/ folder should contain required elements (with ionization levels)
+2. The file that that is placed under /list_of_elements/ folder should contain the required elements (with ionization levels)
 
-   For example file list_of_lines_example.txt should be like:
+   For example, file list_of_lines_example.txt should be like:
 
    H I
    
