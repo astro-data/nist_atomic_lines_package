@@ -13,7 +13,7 @@ The package contains the following folders:
 
 This folder contains python script creating_nist_lib.py that creates a library of all lines (with Relative Intensity) that exist in NIST database.
 
-Library (folder) /NIST_ELEMENTS/ will contain all elements form NIST (as subfolders): 
+Library (folder) /NIST_ELEMENTS/ will contain all elements from NIST (as subfolders): 
 
 * /NIST_ELEMENTS/H/ 
 * /NIST_ELEMENTS/He/
