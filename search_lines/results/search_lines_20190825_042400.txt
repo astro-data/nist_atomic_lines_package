@@ -1,0 +1,82 @@
+************ line 4200 Ang ( +/- 40 Ang ) inside file1.txt file ************
+
+Element: Na II
+Line: 4200 Ang ( +/- 40 Ang )
+Number of lines: 5
+
+11.01	Na	II	4171.93	160.0	0.064	NIST	L914
+11.01	Na	II	4172.88	160.0	0.064	NIST	L914
+11.01	Na	II	4174.13	150.0	0.06	NIST	L914
+11.01	Na	II	4216.27	160.0	0.064	NIST	L914
+11.01	Na	II	4233.26	250.0	0.1	NIST	L914
+
+
+Element: Ar III
+Line: 4200 Ang ( +/- 40 Ang )
+Number of lines: 3
+
+18.02	Ar	III	4173.69	2.0	0.0017	NIST	L7493
+18.02	Ar	III	4182.9667	18.0	0.0153	NIST	L11520
+18.02	Ar	III	4198.83	3.0	0.0026	NIST	L7493
+
+
+Element: Fe III
+Line: 4200 Ang ( +/- 40 Ang )
+Number of lines: 8
+
+26.02	Fe	III	4164.73	18.0	0.9	NIST	L1171
+26.02	Fe	III	4164.92	9.0	0.45	NIST	L1171
+26.02	Fe	III	4166.84	13.0	0.65	NIST	L1171
+26.02	Fe	III	4174.26	13.0	0.65	NIST	L1171
+26.02	Fe	III	4210.67	9.0	0.45	NIST	L1171
+26.02	Fe	III	4222.27	11.0	0.55	NIST	L1171
+26.02	Fe	III	4235.56	13.0	0.65	NIST	L1171
+26.02	Fe	III	4238.62	9.0	0.45	NIST	L1171
+
+
+TOTAL NUM OF LINES: 16
+****************************************************************************
+
+
+************ line 5750 Ang ( +/- 25 Ang ) inside file1.txt file ************
+
+Element: N I
+Line: 5750 Ang ( +/- 25 Ang )
+Number of lines: 2
+
+07.00	N	I	5752.5	700.0	0.7609	NIST	L3513
+07.00	N	I	5764.75	240.0	0.2609	NIST	L3513
+
+
+Element: Ar III
+Line: 5750 Ang ( +/- 25 Ang )
+Number of lines: 1
+
+18.02	Ar	III	5743.147	1.0	0.0009	NIST	L9366
+
+
+Element: Fe III
+Line: 5750 Ang ( +/- 25 Ang )
+Number of lines: 2
+
+26.02	Fe	III	5744.19	9.0	0.45	NIST	L1171
+26.02	Fe	III	5756.38	10.0	0.5	NIST	L1171
+
+
+TOTAL NUM OF LINES: 5
+****************************************************************************
+
+
+************ line 4200 Ang ( +/- 40 Ang ) inside file2.txt file ************
+
+Element: He I
+Line: 4200 Ang ( +/- 40 Ang )
+Number of lines: 1
+
+02.00	He	I	4168.97	null	null	M	wiserep
+
+
+TOTAL NUM OF LINES: 1
+****************************************************************************
+
+
