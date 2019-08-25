@@ -1,0 +1,112 @@
+atomic_num.ion_num	name	ionization	wavelength(Ang)	relative_intensity	frac_of_max_rel_int	flags	reference
+
+
+Element : He I
+Only manually added lines for this element.
+Total number of lines : 5
+
+02.00	He	I	3886.0	null	null	M;WR_WC/O	wiserep
+02.00	He	I	4009.27	null	null	M	wiserep
+02.00	He	I	4143.76	null	null	M	wiserep
+02.00	He	I	4168.97	null	null	M	wiserep
+02.00	He	I	4437.55	null	null	M	wiserep
+
+Element : He II
+Only manually added lines for this element.
+Total number of lines : 5
+
+02.01	He	II	3203.0	null	null	M	wiserep
+02.01	He	II	4542.0	null	null	M	wiserep
+02.01	He	II	4686.0	null	null	M;WR_WN;WR_WC/O	wiserep
+02.01	He	II	5412.0	null	null	M;WR_WN	wiserep
+02.01	He	II	10124.0	null	null	M;WR_WN	wiserep
+
+Element : N II
+Only manually added lines for this element.
+Total number of lines : 2
+
+07.01	N	II	6548.0	null	null	M;G	wiserep
+07.01	N	II	6583.0	null	null	M;G	wiserep
+
+Element : N IV
+Only manually added lines for this element.
+Total number of lines : 3
+
+07.03	N	IV	4537.0	null	null	M;WR_WN	wiserep
+07.03	N	IV	7109.0	null	null	M;WR_WN	wiserep
+07.03	N	IV	7123.0	null	null	M;WR_WN	wiserep
+
+Element : N V
+Only manually added lines for this element.
+Total number of lines : 1
+
+07.04	N	V	4946.0	null	null	M;WR_WN	wiserep
+
+Element : O I
+Only manually added lines for this element.
+Total number of lines : 2
+
+08.00	O	I	6300.0	null	null	M;F	wiserep
+08.00	O	I	6363.0	null	null	M;F	wiserep
+
+Element : O III
+Only manually added lines for this element.
+Total number of lines : 2
+
+08.02	O	III	4959.0	null	null	M;F;G	wiserep
+08.02	O	III	5007.0	null	null	M;F;G	wiserep
+
+Element : O V
+Only manually added lines for this element.
+Total number of lines : 1
+
+08.04	O	V	5592.0	null	null	M;WR_WC/O	wiserep
+
+Element : O VI
+Only manually added lines for this element.
+Total number of lines : 2
+
+08.05	O	VI	3811.0	null	null	M	wiserep
+08.05	O	VI	3834.0	null	null	M	wiserep
+
+Element : Na I
+Only manually added lines for this element.
+Total number of lines : 1
+
+11.00	Na	I	8183.0	null	null	M	wiserep
+
+Element : S II
+Only manually added lines for this element.
+Total number of lines : 5
+
+16.01	S	II	6713.0	null	null	M	wiserep
+16.01	S	II	6715.0	null	null	M	wiserep
+16.01	S	II	6717.0	null	null	M;G	wiserep
+16.01	S	II	6731.0	null	null	M;G	wiserep
+16.01	S	II	6733.0	null	null	M	wiserep
+
+Element : Ca II
+Only manually added lines for this element.
+Total number of lines : 2
+
+20.01	Ca	II	7292.0	null	null	M;F	wiserep
+20.01	Ca	II	7324.0	null	null	M;F	wiserep
+
+Element : Fe II
+Only manually added lines for this element.
+Total number of lines : 2
+
+26.01	Fe	II	4303.0	null	null	M	wiserep
+26.01	Fe	II	4515.0	null	null	M	wiserep
+
+Element : Fe III
+Only manually added lines for this element.
+Total number of lines : 4
+
+26.02	Fe	III	4397.0	null	null	M	wiserep
+26.02	Fe	III	4421.0	null	null	M	wiserep
+26.02	Fe	III	5129.0	null	null	M	wiserep
+26.02	Fe	III	5158.0	null	null	M	wiserep
+
+TOTAL NUMBER OF ALL LINES : 37
+

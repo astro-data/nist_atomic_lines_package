@@ -1,0 +1,87 @@
+% Element : He I
+% Only manually added lines for this element.
+% Total number of lines : 5
+
+heilines=[3886.0 4009.27 4143.76 4168.97 4437.55];
+
+% Element : He II
+% Only manually added lines for this element.
+% Total number of lines : 5
+
+heiilines=[3203.0 4542.0 4686.0 5412.0 10124.0];
+
+% Element : N II
+% Only manually added lines for this element.
+% Total number of lines : 2
+
+niilines=[6548.0 6583.0];
+
+% Element : N IV
+% Only manually added lines for this element.
+% Total number of lines : 3
+
+nivlines=[4537.0 7109.0 7123.0];
+
+% Element : N V
+% Only manually added lines for this element.
+% Total number of lines : 1
+
+nvlines=[4946.0];
+
+% Element : O I
+% Only manually added lines for this element.
+% Total number of lines : 2
+
+oilines=[6300.0 6363.0];
+
+% Element : O III
+% Only manually added lines for this element.
+% Total number of lines : 2
+
+oiiilines=[4959.0 5007.0];
+
+% Element : O V
+% Only manually added lines for this element.
+% Total number of lines : 1
+
+ovlines=[5592.0];
+
+% Element : O VI
+% Only manually added lines for this element.
+% Total number of lines : 2
+
+ovilines=[3811.0 3834.0];
+
+% Element : Na I
+% Only manually added lines for this element.
+% Total number of lines : 1
+
+nailines=[8183.0];
+
+% Element : S II
+% Only manually added lines for this element.
+% Total number of lines : 5
+
+siilines=[6713.0 6715.0 6717.0 6731.0 6733.0];
+
+% Element : Ca II
+% Only manually added lines for this element.
+% Total number of lines : 2
+
+caiilines=[7292.0 7324.0];
+
+% Element : Fe II
+% Only manually added lines for this element.
+% Total number of lines : 2
+
+feiilines=[4303.0 4515.0];
+
+% Element : Fe III
+% Only manually added lines for this element.
+% Total number of lines : 4
+
+feiiilines=[4397.0 4421.0 5129.0 5158.0];
+
+
+% TOTAL NUMBER OF ALL LINES : 37
+
