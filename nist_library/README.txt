@@ -1,7 +1,7 @@
 
 The script creating_nist_lib.py creates library of all lines (with Relative Intensity) that exist in NIST database.
 
-Library (folder) /NIST_ELEMENTS/ will contain all elements form NIST (as subfolders): 
+Library (folder) /NIST_ELEMENTS/ will contain all elements from NIST (as subfolders): 
 
 * /NIST_ELEMENTS/H/ 
 * /NIST_ELEMENTS/He/
