@@ -16,7 +16,7 @@ To obtain the list of atomic lines for the required elements, follow these steps
    
    * /NIST_ELEMENTS/          - downloaded library of the NIST database
 
-   * /script_result/          - folder with results from the script execution 
+   * /script_results/          - folder with results from the script execution 
    
 
 2. File that you put in /list_of_elements/ folder should contain required elements (with ionization levels)
